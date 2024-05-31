@@ -1,13 +1,13 @@
 {
     "user" : {
         "fullName" : "Boitumelo Mokgola",
-        "photo" : "Grad Pic.jpeg",
+        "photo" : "./Grad Pic.jpeg",
         "phone" : "0660922057",
         "email" : "boitumelomokgola1@gmail.com"
     },
     "education" : {
         "institutionName" : "University of Johannesburg",
-        "photo" : "Grad Pic.jpeg",
+        "photo" : "",
         "description1" : "2024-2024 Bcom honors In Information Management" ,
         "description2" : "2020-2023 BA in Public Management and Governance"
         
@@ -36,5 +36,7 @@
             "name" : "Political science",
             "description" : "The last favourite subject"
         }
+    
+        
     ]
 }
